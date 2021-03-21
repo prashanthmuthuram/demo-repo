@@ -1,3 +1,3 @@
 # demo-repo
 
-hd.swwsduj
+hd.swwsduj/
